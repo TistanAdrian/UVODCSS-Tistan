@@ -1,0 +1,86 @@
+body{
+    background: url(background.jpg);
+    background-size: cover;
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-size: 55px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: white;
+}
+
+.h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ol.h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: upper-roman;
+}
+
+.esport{
+    color: black;
+}
+
+h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+.h3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ol1{
+    color: chartreuse;
+}
+
+.ol2{
+    color: darkred;
+}
+
+.ol3{
+    color: cadetblue;
+}
+
+.ol4{
+    color: dodgerblue;
+}
+
+.ol5{
+    color: khaki;
+}
+
+.ol6{
+    color: crimson;
+}
+
+.ol7{
+    color: mediumslateblue;
+}
+
+.li1{
+    list-style-type: square
+}
+
+.li2{
+    list-style-type: circle
+}
+
+.li3{
+    list-style-type: disc;
+}
